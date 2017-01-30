@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was incredibly easy to see difference between two versions.  The diff function pointed out the exact line and the difference between the two versions. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having the entire history of a file could save you a lot of time when you make a mistake between versions and can’t figure out why it was working before, but is no longer working now. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros - You save in logical places that make sense. Cons - you may not remember to save often enough and lose track of quality version control. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Sometimes you will have inter-related files that you want to track simultaneously. You will want to keep them in a repository together to continue to development them concurrently.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log and git diff are great ways to see what the difference are between two different versions.  Will be helpful for future programmers to understand the differences and see how a project developed.  Will also help the creator to keep track of his/her work and spend less time checking errors and more time building on top of it.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control allows you to make changes knowing that if you make a mistake you can easily figure out when and where the mistake happened. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Git sounds great except I can’t get it to work with atom. I would like to continue using atom, otherwise I will just switch over to sublime. 
