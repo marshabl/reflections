@@ -7,3 +7,20 @@ How is the staging area different from the working directory and the repository?
 
     Staging area is a place where you can place file(s) that will be committed into a new repository. Working directory shows what files you are looking at.
     They both add a lot of value by creating a process to organize your work.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    The staging area allows you to place files and then compare the different between that file with the working directory so you know exactly what changes you are making.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Branches will be incredibly helpful when you want to experiment with different methods or take risks in your programming.
+
+How do the diagrams help you visualize the branch structure?
+
+    Helpful to visualize and understand the workflow of a project so you can pinpoint where everything stands and where some version control may have gone wrong.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    Merging two branches together combines the changes that have been made by separate users.
+    We represent it in the diagram that way because it shows the union of two different work paths.
