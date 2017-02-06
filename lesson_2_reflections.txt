@@ -24,3 +24,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
     Merging two branches together combines the changes that have been made by separate users.
     We represent it in the diagram that way because it shows the union of two different work paths.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Automatic merging allows multiple developers to work on different aspects of the master version. This can lead to more risk taking and break-throughs without messing up the
+    working version. You can always merge the new developments to the main project at a later date. 
